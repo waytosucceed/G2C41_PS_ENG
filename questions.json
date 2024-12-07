@@ -1,0 +1,229 @@
+{
+  "heading": "Capitalisation",
+  "topics": [
+    {
+      "heading": "Capitalisation of Words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "my dad loves soccer." },
+            { "text": "My dad loves soccer." },
+            { "text": "my Dad loves Soccer." }
+          ],
+          "answer": 1,
+          "explanation": "\"My\" is the first word of the sentence and should be capitalised. \"Dad\" is not a name here, so it stays lowercase."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "My friend lives in Canada." },
+            { "text": "my friend lives in canada." },
+            { "text": "My friend Lives in Canada." }
+          ],
+          "answer": 0,
+          "explanation": "\"My\" is capitalised because it starts the sentence, and \"Canada\" is the name of a country, so it must also be capitalised."
+        },
+        {
+          "questionNo": 3,
+          "question": "_______ Claus brings presents on Christmas.",
+          "options": [
+            { "text": "santa" },
+            { "text": "Santa" },
+            { "text": "SANTA" }
+          ],
+          "answer": 1,
+          "explanation": "Santa Claus is the name of a specific person (even though he's magical!), so both \"Santa\" and \"Claus\" start with capital letters."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "We are going to disneyland this summer." },
+            { "text": "We are going to Disneyland this summer." },
+            { "text": "we are going to Disneyland this summer." }
+          ],
+          "answer": 1,
+          "explanation": "\"Disneyland\" is the name of a place, so it needs a capital letter. The first word \"We\" is also capitalised."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "my favourite sport is baseball." },
+            { "text": "My favourite sport is baseball." },
+            { "text": "my Favourite sport is Baseball." }
+          ],
+          "answer": 1,
+          "explanation": "\"My\" is the first word and should be capitalised."
+        },
+        {
+          "questionNo": 6,
+          "question": "The name of our school is ________ Elementary.",
+          "options": [
+            { "text": "washington" },
+            { "text": "WASHINGTON" },
+            { "text": "Washington" }
+          ],
+          "answer": 2,
+          "explanation": "When naming schools, special names (like Washington, Lincoln, Roosevelt) always start with a capital letter."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "we celebrated my birthday on friday." },
+            { "text": "We celebrated my birthday on Friday." },
+            { "text": "We celebrated my Birthday on Friday." }
+          ],
+          "answer": 1,
+          "explanation": "\"We\" is capitalised because it starts the sentence, and \"Friday\" is a day of the week."
+        },
+        {
+          "questionNo": 8,
+          "question": "_______ live in a big white house.",
+          "options": [
+            { "text": "i" },
+            { "text": "I" },
+            { "text": "i's" }
+          ],
+          "answer": 1,
+          "explanation": "The word \"I\" is always capitalised, no matter where it appears in a sentence. It's the only single letter that's always capitalised!"
+        },
+        {
+          "questionNo": 9,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "I have a pet dog named Max." },
+            { "text": "I have a pet dog named max." },
+            { "text": "I have a pet Dog named Max." }
+          ],
+          "answer": 0,
+          "explanation": "\"Max\" is the name of the dog, so it should start with a capital letter."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "She goes to school on monday." },
+            { "text": "She goes to school on Monday." },
+            { "text": "she goes to School on Monday." }
+          ],
+          "answer": 1,
+          "explanation": "\"She\" is capitalised because it is the first word, and \"Monday\" is a day of the week that also needs to be capitalised."
+        },
+        {
+          "questionNo": 11,
+          "question": "We celebrate ________ in December.",
+          "options": [
+            { "text": "christmas" },
+            { "text": "CHRISTMAS" },
+            { "text": "Christmas" }
+          ],
+          "answer": 2,
+          "explanation": "Holidays are special occasions, so their names always start with capital letters. This includes Christmas, Easter, Halloween, and other holidays!"
+        },
+        {
+          "questionNo": 12,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "We watched a show about space." },
+            { "text": "we watched a show about Space." },
+            { "text": "We Watched a show about space." }
+          ],
+          "answer": 0,
+          "explanation": "\"We\" is capitalised because it starts the sentence."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "My family loves to travel to paris." },
+            { "text": "My family loves to travel to Paris." },
+            { "text": "my family loves to travel to Paris." }
+          ],
+          "answer": 1,
+          "explanation": "\"My\" is capitalised as the first word, and \"Paris\" is a place, so it must also be capitalised."
+        },
+        {
+          "questionNo": 14,
+          "question": "_______ is my favourite restaurant.",
+          "options": [
+            { "text": "mcdonalds" },
+            { "text": "McDonalds" },
+            { "text": "MCDONALDS" }
+          ],
+          "answer": 1,
+          "explanation": "Names of restaurants, stores, and businesses start with capital letters."
+        },
+        {
+          "questionNo": 15,
+          "question": "The ________ river is very long.",
+          "options": [
+            { "text": "mississippi" },
+            { "text": "MISSISSIPPI" },
+            { "text": "Mississippi" }
+          ],
+          "answer": 2,
+          "explanation": "Names of rivers, mountains, and other natural landmarks start with capital letters."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence is correctly capitalised?",
+          "options": [
+            { "text": "i went to the museum." },
+            { "text": "I went to the museum." },
+            { "text": "i Went to the museum." }
+          ],
+          "answer": 1,
+          "explanation": "\"I\" needs to be capitalised as it is the first word of the sentence."
+        },
+        {
+          "questionNo": 17,
+          "question": "_______ is hot and sunny.",
+          "options": [
+            { "text": "summer" },
+            { "text": "Summer" },
+            { "text": "SUMMER" }
+          ],
+          "answer": 0,
+          "explanation": "Seasons (summer, winter, spring, fall) don't need capital letters unless they start a sentence."
+        },
+        {
+          "questionNo": 18,
+          "question": "_______ is the shortest month.",
+          "options": [
+            { "text": "february" },
+            { "text": "February" },
+            { "text": "FEBRUARY" }
+          ],
+          "answer": 1,
+          "explanation": "All months of the year start with capital letters. Also, it needs to be capitalised as it is the first word of the sentence."
+        },
+        {
+          "questionNo": 19,
+          "question": "Look at the image and choose the correct sentence:<br> <img src='./assests/watch.png' width='180px'/>",
+          "options": [
+            { "text": "Jimmy is watching TV." },
+            { "text": "Jimmy is playing with the TV." }
+          ],
+          "answer": 0,
+          "explanation": "In the image, Jimmy is watching television, which means he is sitting and looking at the TV screen. Option B is incorrect because \"playing with the TV\" would mean he is trying to touch or move the TV, which is not happening in the picture."
+        },
+        {
+          "questionNo": 20,
+          "question": "Look at this image and choose the correct word:<br> <img src='./assests/panda.png' width='150px'/>",
+          "options": [
+            { "text": "Bear" },
+            { "text": "Gorilla" },
+            { "text": "Panda" }
+          ],
+          "answer": 2,
+          "explanation": "The animal shown in the picture is a panda. Pandas are black and white animals known for eating bamboo."
+        }
+      ]
+    }
+  ]
+}
